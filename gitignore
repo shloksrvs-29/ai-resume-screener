@@ -1,0 +1,17 @@
+# Streamlit secrets — NEVER push this
+.streamlit/secrets.toml
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+.venv
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
