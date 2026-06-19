@@ -95,4 +95,4 @@ ai-resume-screener/
 
 **Shlok Srivastava**  
 B.Tech Student — PSIT Kanpur (2024–2028)  
-[LinkedIn](www.linkedin.com/in/shlok-srivastava-1b005b316) • [GitHub](https://github.com/shloksrvs-29)
+[LinkedIn]([www.linkedin.com/in/shlok-srivastava-1b005b316]) • [GitHub]([https://github.com/shloksrvs-29])
