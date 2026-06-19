@@ -32,7 +32,7 @@ Upload a PDF resume, paste a job description, and get an instant AI-generated ma
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-resume-screener.git
+git clone https://github.com/shloksrvs-29/ai-resume-screener.git
 cd ai-resume-screener
 ```
 
@@ -95,4 +95,4 @@ ai-resume-screener/
 
 **Shlok Srivastava**  
 B.Tech Student — PSIT Kanpur (2024–2028)  
-[LinkedIn](https://linkedin.com/in/shlok-srivastava-1b005b316) • [GitHub](https://github.com/YOUR_USERNAME)
+[LinkedIn](www.linkedin.com/in/shlok-srivastava-1b005b316) • [GitHub](https://github.com/shloksrvs-29)
