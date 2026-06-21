@@ -1,4 +1,4 @@
-# 🤖 AI Resume Screener
+# AI Resume Screener
 
 An AI-powered ATS (Applicant Tracking System) resume analyzer built with Python, Streamlit, and Google Gemini 2.5 Flash.
 
@@ -8,18 +8,18 @@ Upload a PDF resume, paste a job description, and get an instant AI-generated ma
 
 ---
 
-## ✨ Features
+## Features
 
-- 📄 PDF resume parsing with `pdfplumber`
-- 🤖 Real AI match score (0–100) powered by Google Gemini 2.5 Flash
-- 🎯 Matched & missing skills detection
-- 💡 Tailored improvement suggestions specific to the job description
-- 📊 Resume statistics (pages, words, characters)
-- 🔒 Secure API key handling via Streamlit secrets
+- PDF resume parsing with `pdfplumber`
+- Real AI match score (0–100) powered by Google Gemini 2.5 Flash
+- Matched & missing skills detection
+- Tailored improvement suggestions specific to the job description
+- Resume statistics (pages, words, characters)
+- Secure API key handling via Streamlit secrets
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Frontend / UI** — Streamlit
 - **PDF Parsing** — pdfplumber
@@ -28,7 +28,7 @@ Upload a PDF resume, paste a job description, and get an instant AI-generated ma
 
 ---
 
-## 🚀 Run Locally
+## Run Locally
 
 **1. Clone the repo**
 ```bash
@@ -57,7 +57,7 @@ streamlit run app.py
 
 ---
 
-## ☁️ Deploy on Streamlit Cloud
+## Deploy on Streamlit Cloud
 
 1. Push this repo to GitHub
 2. Go to [share.streamlit.io](https://share.streamlit.io)
@@ -71,7 +71,7 @@ GEMINI_API_KEY = "your-gemini-api-key-here"
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ai-resume-screener/
@@ -84,14 +84,14 @@ ai-resume-screener/
 
 ---
 
-## ⚠️ Important
+## Important
 
 - Never commit `.streamlit/secrets.toml` — it contains your API key
 - The `.gitignore` already excludes it, but double-check before pushing
 
 ---
 
-## 👤 Author
+## Author
 
 **Shlok Srivastava**  
 B.Tech Student — PSIT Kanpur (2024–2028)  
